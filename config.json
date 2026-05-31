@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefave",
+        "uuid": 9936920,
+        "checksum": "5t0ev"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
